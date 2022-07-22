@@ -1,5 +1,7 @@
 # Compiled class file
-*.class
+Public class aswin{
+oublic static void main(args String[]){
+System.out.print{"NEWWWWWWWW");
 
 # Log file
 *.log
